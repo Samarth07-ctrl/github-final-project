@@ -1,0 +1,49 @@
+curl -s https://api.github.com/repos/Samarth07-ctrl/mcino-Introduction-to-Git-and-GitHub
+
+{
+  "id": 878432101,
+  "node_id": "R_kgDONHabcA",
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "Samarth07-ctrl/mcino-Introduction-to-Git-and-GitHub",
+  "private": false,
+  "owner": {
+    "login": "Samarth07-ctrl",
+    "id": 145987321,
+    "type": "User",
+    "site_admin": false
+  },
+  "html_url": "https://github.com/Samarth07-ctrl/mcino-Introduction-to-Git-and-GitHub",
+  "description": "Introduction to Git and GitHub",
+  "fork": true,
+  "url": "https://api.github.com/repos/Samarth07-ctrl/mcino-Introduction-to-Git-and-GitHub",
+  "forks_url": "https://api.github.com/repos/Samarth07-ctrl/mcino-Introduction-to-Git-and-GitHub/forks",
+  "parent": {
+    "id": 482910472,
+    "node_id": "R_kgDOHMbXCA",
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "private": false,
+    "owner": {
+      "login": "ibm-developer-skills-network",
+      "id": 67324519,
+      "type": "Organization"
+    },
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "fork": false
+  },
+  "source": {
+    "id": 482910472,
+    "node_id": "R_kgDOHMbXCA",
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "private": false,
+    "owner": {
+      "login": "ibm-developer-skills-network",
+      "id": 67324519,
+      "type": "Organization"
+    },
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "fork": false
+  },
+  "default_branch": "main"
+}

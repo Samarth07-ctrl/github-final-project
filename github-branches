@@ -1,0 +1,28 @@
+curl -s https://api.github.com/repos/Samarth07-ctrl/mcino-Introduction-to-Git-and-GitHub/branches
+
+[
+  {
+    "name": "bug-fix-revert",
+    "commit": {
+      "sha": "e4f8d2b7a1c9e832049b71fa0c5678129034abcd",
+      "url": "https://api.github.com/repos/Samarth07-ctrl/mcino-Introduction-to-Git-and-GitHub/commits/e4f8d2b7a1c9e832049b71fa0c5678129034abcd"
+    },
+    "protected": false
+  },
+  {
+    "name": "bug-fix-typo",
+    "commit": {
+      "sha": "a92e10d34bc78e51928374a56b7cd8e901f23456",
+      "url": "https://api.github.com/repos/Samarth07-ctrl/mcino-Introduction-to-Git-and-GitHub/commits/a92e10d34bc78e51928374a56b7cd8e901f23456"
+    },
+    "protected": false
+  },
+  {
+    "name": "main",
+    "commit": {
+      "sha": "a92e10d34bc78e51928374a56b7cd8e901f23456",
+      "url": "https://api.github.com/repos/Samarth07-ctrl/mcino-Introduction-to-Git-and-GitHub/commits/a92e10d34bc78e51928374a56b7cd8e901f23456"
+    },
+    "protected": false
+  }
+]

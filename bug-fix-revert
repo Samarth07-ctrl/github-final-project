@@ -1,0 +1,40 @@
+curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls
+
+[
+  {
+    "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1042",
+    "id": 1823901421,
+    "node_id": "PR_kwDOHMbXCM5snj9l",
+    "number": 1042,
+    "state": "open",
+    "title": "Revert typo fix",
+    "user": {
+      "login": "Samarth07-ctrl",
+      "id": 145987321,
+      "type": "User"
+    },
+    "head": {
+      "label": "Samarth07-ctrl:bug-fix-revert",
+      "ref": "bug-fix-revert",
+      "sha": "e4f8d2b7a1c9e832049b71fa0c5678129034abcd",
+      "user": {
+        "login": "Samarth07-ctrl"
+      },
+      "repo": {
+        "id": 878432101,
+        "name": "mcino-Introduction-to-Git-and-GitHub",
+        "full_name": "Samarth07-ctrl/mcino-Introduction-to-Git-and-GitHub",
+        "fork": true
+      }
+    },
+    "base": {
+      "label": "ibm-developer-skills-network:main",
+      "ref": "main",
+      "repo": {
+        "id": 482910472,
+        "name": "mcino-Introduction-to-Git-and-GitHub",
+        "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+      }
+    }
+  }
+]
